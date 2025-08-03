@@ -150,13 +150,6 @@ The `obstacle_avoider.py` script also uses object detection. It identifies a pre
 
 -----
 
-## ▶️ YouTube Video
-
-*Placeholder for an embedded YouTube video demonstrating the robot.*
-
-[](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3Dyour_video_id)
-
------
 
 ## 🤝 Contributing
 
