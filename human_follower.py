@@ -6,8 +6,6 @@ import time
 from threading import Thread
 
 
-#import sys
-#sys.path.insert(0, '/var/www/html/earthrover')
 import util as ut
 ut.init_gpio()
 
